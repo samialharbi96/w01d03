@@ -1,0 +1,16 @@
+h1 {
+    background-color: orangered;
+    text-align: center ;
+}
+h2 {background-color: orangered;
+text-align: center ;
+}
+p{color: maroon;}
+
+
+img{
+    width:300px;
+    height: 300px;
+}
+
+body{margin: 02%;}
